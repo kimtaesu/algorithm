@@ -1,4 +1,4 @@
-group 'com.hucet.cache'
+group 'kotlin-cache'
 version '1.0-SNAPSHOT'
 
 buildscript {
