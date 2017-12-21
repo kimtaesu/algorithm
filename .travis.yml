@@ -8,6 +8,6 @@ install:
   - echo "Overriding default Travis install step to avoid unnecessary './gradlew assemble'."
 
 before_script:
-  chmod +x ci/build.sh
+  chmod +x build.sh
 script:
-  - ci/build.sh
+  - build.sh
